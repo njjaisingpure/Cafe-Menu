@@ -1,0 +1,88 @@
+body{
+    background-image: url("./images/beans-backgroundImage.jpg");
+    padding:20px;
+}
+
+main{
+    background-color:burlywood;
+    padding:15px;
+    width: 80%;
+    max-width:500px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+h1,h2,p{
+    text-align:center;
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+
+h1,h2{
+    font-family: Impact,serif;
+}
+
+.address{
+    font-style:italic;
+}
+
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:-25px;
+}
+
+hr{
+    height:2px;
+    background-color:brown;
+    border-color:brown;
+}
+
+.item p{
+    display:inline-block;
+    font-size:18px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+
+.flavor,.desserts{
+    font-size:14px;
+    text-align:left;
+    width:70%;
+}
+.price{
+    text-align:right;
+    width:30%;
+}
+
+img{
+    margin-left:center;
+    margin-right:auto;
+}
+
+a{
+    color:black;
+}
+
+a:active{
+    color:brown;
+}
+
+a:hover{
+    color:brown;
+}
+
+a:visited{
+    color:black;
+}
+
+footer{
+    text-align: center;
+}
+
+footer>p{
+    margin-top:15px;
+    margin-bottom:0px;
+}
